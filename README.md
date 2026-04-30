@@ -197,7 +197,7 @@ Estes exercícios têm um nível de dificuldade progressivo. Tente fazer um por 
 **8.** Crie um **Array de Objetos** chamado `listaDeProvas`. Adicione 3 objetos dentro dele. Cada objeto deve representar uma prova com `disciplina` (string) e `notaTirada` (número).
 
 ### Nível 4: Lógica Aplicada (Desafios)
-**9. A Função Filtro:** Crie uma função chamada `filtrarAprovados` que receba o array `listaDeProvas` (criado no ex. 8). Use um laço (`for` ou `forEach`) para percorrer o array e imprimir no console **apenas** as disciplinas em que a `notaTirada` foi maior ou igual a 6.0.
+**9. A Função Filtro:** Crie uma função chamada `filtrarAprovados` que receba o array `listaDeProvas` (criado no ex. 8). Use um laço (`for` ou `while`) para percorrer o array e imprimir no console **apenas** as disciplinas em que a `notaTirada` foi maior ou igual a 6.0.
 
 **10. A Calculadora de Média (O Desafio Final):** * Crie um objeto chamado `sistemaEscolar`. 
 * Dentro dele, coloque uma propriedade `nomeDoAluno`.
