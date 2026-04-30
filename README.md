@@ -179,7 +179,9 @@ Estes exercícios têm um nível de dificuldade progressivo. Tente fazer um por 
 
 ### Nível 1: Aquecimento de Memória
 **1.** Crie um **Array** chamado `linguagens` contendo as strings "JavaScript", "Python" e "Java". Imprima a segunda linguagem no console.
+
 **2.** Crie um **Objeto** chamado `prova` com as propriedades: `materia` (string), `peso` (número) e `aplicada` (booleano - true/false).
+
 **3.** Crie uma **Função Declarada** (void) chamada `iniciarCalculadora` que imprima no console a frase: *"Calculadora inicializada com sucesso!"*.
 
 ### Nível 2: Processamento e Funções
