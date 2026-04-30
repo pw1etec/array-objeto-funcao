@@ -185,7 +185,7 @@ Estes exercícios têm um nível de dificuldade progressivo. Tente fazer um por 
 **3.** Crie uma **Função Declarada** (void) chamada `iniciarCalculadora` que imprima no console a frase: *"Calculadora inicializada com sucesso!"*.
 
 ### Nível 2: Processamento e Funções
-**4.** Crie uma **Função Expressa** chamada `calcularAreaRetangulo` que receba `base` e `altura` como parâmetros e **retorne** a multiplicação entre eles.
+**4.** Crie uma **Função Expressa** chamada `calcularAreaRetangulo` que receba `base` e `altura` como parâmetros e **retorne** a área.
 
 **5.** Crie uma **Arrow Function concisa** (de uma linha só) chamada `elevarAoQuadrado` que receba um número `x` e retorne `x * x`.
 
