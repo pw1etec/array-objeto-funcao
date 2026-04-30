@@ -186,17 +186,22 @@ Estes exercícios têm um nível de dificuldade progressivo. Tente fazer um por 
 
 ### Nível 2: Processamento e Funções
 **4.** Crie uma **Função Expressa** chamada `calcularAreaRetangulo` que receba `base` e `altura` como parâmetros e **retorne** a multiplicação entre eles.
+
 **5.** Crie uma **Arrow Function concisa** (de uma linha só) chamada `elevarAoQuadrado` que receba um número `x` e retorne `x * x`.
+
 **6.** Crie uma função chamada `gerarRelatorio(nomeAluno, status = "Pendente")`. Se você chamar a função passando apenas o nome, ela deve imprimir: *"Relatório do aluno [nome] está Pendente"*. Teste a função.
 
 ### Nível 3: Integração de Estruturas
 **7.** Crie um **Objeto** chamado `historicoMatematico`. Ele deve ter a propriedade `operacao` (string, ex: "Soma") e a propriedade `valoresParticipantes`, que deve ser um **Array** de números (ex: `[5, 10, 15]`).
+
 **8.** Crie um **Array de Objetos** chamado `listaDeProvas`. Adicione 3 objetos dentro dele. Cada objeto deve representar uma prova com `disciplina` (string) e `notaTirada` (número).
 
 ### Nível 4: Lógica Aplicada (Desafios)
 **9. A Função Filtro:** Crie uma função chamada `filtrarAprovados` que receba o array `listaDeProvas` (criado no ex. 8). Use um laço (`for` ou `forEach`) para percorrer o array e imprimir no console **apenas** as disciplinas em que a `notaTirada` foi maior ou igual a 6.0.
+
 **10. A Calculadora de Média (O Desafio Final):** * Crie um objeto chamado `sistemaEscolar`. 
 * Dentro dele, coloque uma propriedade `nomeDoAluno`.
 * Adicione uma propriedade `notas`, que será um **Array** com 4 números.
 * Crie um **método** (uma função atrelada ao objeto) chamado `calcularMediaGeral`. Esse método deve somar todos os valores do array de notas, dividir pelo tamanho do array (`.length`) e retornar a média exata.
 * Execute `sistemaEscolar.calcularMediaGeral()` e imprima o resultado!
+  
